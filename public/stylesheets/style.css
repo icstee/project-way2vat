@@ -1,0 +1,115 @@
+body {
+  margin: 0;
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.main {
+  width: 900px;
+  margin: 0 auto;
+
+}
+
+.table{
+
+  border-bottom: 1px #dedede solid;
+  height: 35px;
+}
+
+.name{
+  float: left;
+  width: 33%;
+  padding-top: 9px;
+  font-size: 16px;
+}
+
+.description{
+  display: inline-block;
+  padding-top: 9px;
+  font-size: 16px;
+
+}
+
+.description:empty:before{
+  content:'No description available in API :(';
+  font-style: italic;
+  color: #dedede;
+
+}
+
+.createdAt {
+  float: right;
+  padding-top: 9px;
+  font-size: 16px;
+}
+
+.nameTitle{
+  float: left;
+  width: 33%;
+  padding-top: 9px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.nameTitle:before{
+  font-family: FontAwesome;
+  top: 0;
+  left: -5px;
+  padding-right: 10px;
+  content: "\f09b";
+  font-weight: normal;
+}
+
+.descriptionTitle{
+  display: inline-block;
+  padding-top: 9px;
+  font-size: 18px;
+  font-weight: bold;
+}
+.descriptionTitle:before{
+  font-family: FontAwesome;
+  top: 0;
+  left: -5px;
+  padding-right: 10px;
+  content: "\f05a";
+  font-weight: normal;
+}
+
+.createdAtTitle{
+  float: right;
+  padding-top: 9px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.createdAtTitle:before{
+  font-family: FontAwesome;
+  top: 0;
+  left: -5px;
+  padding-right: 10px;
+  content: "\f017";
+  font-weight: normal;
+}
+
+.justBorder{
+  border-bottom: 3px solid #dedede;
+  padding-bottom: 10px;
+}
+
+.headerText{
+  font-weight: bold;
+  font-size: 28px;
+  padding-bottom: 35px;
+  text-align: center;
+}
+
+.pages{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+

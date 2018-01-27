@@ -1,0 +1,115 @@
+[33m27 01 2018 17:23:36.511:WARN [karma]: [39mNo captured browser, open http://localhost:9876/
+[33m27 01 2018 17:23:36.526:WARN [karma]: [39mPort 9876 in use
+[32m27 01 2018 17:23:36.529:INFO [karma]: [39mKarma v2.0.0 server started at http://0.0.0.0:9877/
+[32m27 01 2018 17:23:36.530:INFO [launcher]: [39mLaunching browsers Chrome, PhantomJS with unlimited concurrency
+[32m27 01 2018 17:23:36.564:INFO [launcher]: [39mStarting browser Chrome
+[32m27 01 2018 17:23:36.587:INFO [launcher]: [39mStarting browser PhantomJS
+[32m27 01 2018 17:23:38.672:INFO [Chrome 63.0.3239 (Windows 10 0.0.0)]: [39mConnected on socket pjqGQxpuk3CAKTmPAAAA with id 8061343
+[32m27 01 2018 17:23:40.556:INFO [PhantomJS 2.1.1 (Windows 8 0.0.0)]: [39mConnected on socket R-CAJ-m-T5cS1frjAAAB with id 36117073
+PhantomJS 2.1.1 (Windows 8 0.0.0): Executed 0 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0.003 secs / 0 secs)
+
+[1A[2K[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0.003 secs / 0 secs)
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 0 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2K[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0.003 secs / 0 secs)
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2K[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0.003 secs / 0 secs)
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0.007 secs / 0 secs)
+TOTAL: 2 SUCCESS
+[33m27 01 2018 17:26:08.407:WARN [Chrome 63.0.3239 (Windows 10 0.0.0)]: [39mDisconnected (1 times)
+[1A[2K[1A[2KChrome 63.0.3239 (Windows 10 0.0.0) ERROR
+  Disconnectedundefined
+PhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0.003 secs / 0 secs)
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0.007 secs / 0 secs)
+[32m27 01 2018 17:26:08.490:INFO [Chrome 63.0.3239 (Windows 10 0.0.0)]: [39mConnected on socket eHajKPYLtGDoGoxjAAAC with id 8061343
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 0 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2KChrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2KChrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0.007 secs / 0 secs)
+
+[1A[2K[1A[2KChrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0.007 secs / 0 secs)
+PhantomJS 2.1.1 (Windows 8 0.0.0): Executed 0 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2K[1A[2KChrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0.007 secs / 0 secs)
+PhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2K[1A[2KChrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0.007 secs / 0 secs)
+PhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0.001 secs / 0 secs)
+TOTAL: 2 SUCCESS
+[33m27 01 2018 17:26:45.966:WARN [Chrome 63.0.3239 (Windows 10 0.0.0)]: [39mDisconnected (1 times)
+[1A[2K[1A[2KChrome 63.0.3239 (Windows 10 0.0.0) ERROR
+  Disconnectedundefined
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0.007 secs / 0 secs)
+PhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0.001 secs / 0 secs)
+[31m27 01 2018 17:26:46.196:ERROR [launcher]: [39mChrome crashed.
+	[10584:14956:0127/172537.181:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[10584:14956:0127/172537.181:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[10584:14956:0127/172537.181:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+
+[31m27 01 2018 17:26:46.196:ERROR [launcher]: [39mChrome stdout: 
+[31m27 01 2018 17:26:46.196:ERROR [launcher]: [39mChrome stderr: [10584:14956:0127/172537.181:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[10584:14956:0127/172537.181:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[10584:14956:0127/172537.181:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+
+[32m27 01 2018 17:26:46.346:INFO [launcher]: [39mTrying to start Chrome again (1/2).
+[32m27 01 2018 17:26:48.210:INFO [Chrome 63.0.3239 (Windows 10 0.0.0)]: [39mConnected on socket sYOuZfbado1X9rBUAAAD with id 8061343
+PhantomJS 2.1.1 (Windows 8 0.0.0): Executed 0 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0 secs / 0 secs)
+
+[1A[2K[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0 secs / 0 secs)
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 0 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2K[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0 secs / 0 secs)
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2K[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0 secs / 0 secs)
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0.011 secs / 0 secs)
+TOTAL: 2 SUCCESS
+[33m27 01 2018 17:26:55.744:WARN [Chrome 63.0.3239 (Windows 10 0.0.0)]: [39mDisconnected (1 times)
+[1A[2K[1A[2KChrome 63.0.3239 (Windows 10 0.0.0) ERROR
+  Disconnectedundefined
+PhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0 secs / 0 secs)
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0.011 secs / 0 secs)
+[31m27 01 2018 17:26:56.356:ERROR [launcher]: [39mChrome crashed.
+	
+[31m27 01 2018 17:26:56.356:ERROR [launcher]: [39mChrome stdout: 
+[31m27 01 2018 17:26:56.357:ERROR [launcher]: [39mChrome stderr: 
+[32m27 01 2018 17:26:56.533:INFO [launcher]: [39mTrying to start Chrome again (2/2).
+[32m27 01 2018 17:26:58.502:INFO [Chrome 63.0.3239 (Windows 10 0.0.0)]: [39mConnected on socket mb48vEV-3gkD0WiZAAAE with id 8061343
+PhantomJS 2.1.1 (Windows 8 0.0.0): Executed 0 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0.002 secs / 0 secs)
+
+[1A[2K[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0.002 secs / 0 secs)
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 0 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2K[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0.002 secs / 0 secs)
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0 secs / 0 secs)
+[1A[2K[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0.002 secs / 0 secs)
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0.011 secs / 0 secs)
+TOTAL: 2 SUCCESS
+[33m27 01 2018 17:29:04.977:WARN [Chrome 63.0.3239 (Windows 10 0.0.0)]: [39mDisconnected (1 times)
+[1A[2K[1A[2KChrome 63.0.3239 (Windows 10 0.0.0) ERROR
+  Disconnectedundefined
+PhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0.002 secs / 0 secs)
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0.011 secs / 0 secs)
+[31m27 01 2018 17:29:05.201:ERROR [launcher]: [39mChrome crashed.
+	[14668:13472:0127/172857.149:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[14668:13472:0127/172857.149:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[14668:13472:0127/172857.149:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+
+[31m27 01 2018 17:29:05.202:ERROR [launcher]: [39mChrome stdout: 
+[31m27 01 2018 17:29:05.202:ERROR [launcher]: [39mChrome stderr: [14668:13472:0127/172857.149:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[14668:13472:0127/172857.149:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[14668:13472:0127/172857.149:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+
+[31m27 01 2018 17:29:05.355:ERROR [launcher]: [39mChrome failed 2 times (crashed). Giving up.
+[33m27 01 2018 18:03:20.769:WARN [PhantomJS 2.1.1 (Windows 8 0.0.0)]: [39mDisconnected (1 times)
+[1A[2K[1A[2KPhantomJS 2.1.1 (Windows 8 0.0.0) ERROR
+  Disconnectedundefined
+PhantomJS 2.1.1 (Windows 8 0.0.0): Executed 1 of 1 SUCCESS (0.002 secs / 0 secs)
+Chrome 63.0.3239 (Windows 10 0.0.0): Executed 1 of 1 SUCCESS (0.011 secs / 0 secs)
+[31m27 01 2018 18:03:20.781:ERROR [launcher]: [39mPhantomJS crashed.
+	
+[31m27 01 2018 18:03:20.782:ERROR [launcher]: [39mPhantomJS stdout: 
+
+
+
+
+[31m27 01 2018 18:03:20.782:ERROR [launcher]: [39mPhantomJS stderr: 

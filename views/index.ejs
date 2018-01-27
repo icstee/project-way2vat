@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">  <!-- just for design, in table :) -->
+  </head>
+  <body>
+
+ <% include templates/header.ejs %>  <!--to load header sperated-->
+
+  <div class="main">
+
+    <div class="nameTitle">Name</div>
+    <div class="descriptionTitle">Description</div>
+    <div class="createdAtTitle">Created at</div>
+    <div class="justBorder"></div>
+      <% for(var i=0; i<15; i++){ %> <!--used to get the first 15 repos-->
+          <div class="table">
+              <div class="name"><a target="_blank" href="<%= passed[i].html_url %>"><%= i %>. <%= passed[i].name %></a></div>
+              <div class="description"><%= passed[i].description %></div>
+             <div class="createdAt"><%= passed[i].created_at.slice(0, -10) %></div>  <!--i used slice method because date format is "2010-01-06T00:34:37Z"-->
+          </div>
+
+      <% } %>
+  </div>
+
+
+  </body>
+</html>
+
