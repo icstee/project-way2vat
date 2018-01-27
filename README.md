@@ -4,7 +4,7 @@ Way2Vat Test:
 Project files i worked on: app.js, views/index.ejs, views/templates/header.ejs, views/page2.ejs, routes/page2.js;
 
 To run project:
-1. npm install (to install all dependecies)
+1. npm install (to install all dependencies)
 2. npm start (to start the server)
 3. open http://localhost:3000
 
